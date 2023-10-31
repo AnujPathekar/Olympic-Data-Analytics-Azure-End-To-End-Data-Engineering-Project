@@ -1,0 +1,9 @@
+{
+	"name": "tokyoolympic3110datafactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d3f5a6b0-538c-4487-818e-ce42d60a7634",
+		"tenantId": "c85503d0-99bd-473d-82a8-8f3c20f974b8"
+	}
+}
