@@ -1,0 +1,12 @@
+{
+	"name": "EntriesGenderHTTP",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/AnujPathekar/Olympic-Data-Analytics-Azure-End-To-End-Data-Engineering-Project/main/data/EntriesGender.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
